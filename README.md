@@ -68,3 +68,24 @@ for the fiscal_year 2024
 
 ![Screenshot 2024-07-26 175311](https://github.com/user-attachments/assets/641d15f6-f995-4110-9d26-b579cdc3233d)
 
+***
+
+**Q-5)How do the EV sales and penetration rates in Delhi compare to Karnataka for 2024?**
+
+Used view 'electric_vehicle_sale_pct_2024'
+
+
+![Screenshot 2024-07-26 175958](https://github.com/user-attachments/assets/f39d7e31-0cf4-4984-a162-ff8917d2c06e)
+![Screenshot 2024-07-26 180004](https://github.com/user-attachments/assets/4f86a50b-602a-4aec-960a-f404cf60cfc6)
+
+***
+
+**Q-6) Listdown the compounded annual growth rate (CAGR) in 4-wheeler units for the top 5 makers from 2022 to 2024.**
+
+![Screenshot 2024-07-26 183046](https://github.com/user-attachments/assets/89fd3100-c32e-49eb-807a-5ad1057e665d)
+![Screenshot 2024-07-26 183058](https://github.com/user-attachments/assets/c5fc4206-d790-4919-9deb-307729e1ef36)
+![Screenshot 2024-07-26 183110](https://github.com/user-attachments/assets/5eb45990-f737-409e-8110-9b9be42c640e)
+![Screenshot 2024-07-26 183124](https://github.com/user-attachments/assets/31a77517-b25a-4453-b718-e4b49ce26628)
+
+
+
