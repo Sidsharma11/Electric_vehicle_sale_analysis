@@ -87,5 +87,20 @@ Used view 'electric_vehicle_sale_pct_2024'
 ![Screenshot 2024-07-26 183110](https://github.com/user-attachments/assets/5eb45990-f737-409e-8110-9b9be42c640e)
 ![Screenshot 2024-07-26 183124](https://github.com/user-attachments/assets/31a77517-b25a-4453-b718-e4b49ce26628)
 
+***
+
+**Q-7)Listdown the top 10 states that had the highest compounded annual growth rate (CAGR) from 2022 to 2024 in total vehicles sold.**
+
+![Screenshot 2024-07-26 191244](https://github.com/user-attachments/assets/3547df1f-7d15-49af-9f4a-4864bbf5618e)
+
+![Screenshot 2024-07-26 191251](https://github.com/user-attachments/assets/200920b2-420c-49b7-a3dc-eba9df22b3ea)
+
+![Screenshot 2024-07-26 191306](https://github.com/user-attachments/assets/7846975e-9955-4fc3-b924-e0439e75f527)
+
+![Screenshot 2024-07-26 191324](https://github.com/user-attachments/assets/536121aa-f837-4cd4-a2da-8502c0c8706a)
+
+***
+
+
 
 
