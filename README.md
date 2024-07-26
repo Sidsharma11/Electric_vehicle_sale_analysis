@@ -28,3 +28,17 @@
 ![Screenshot 2024-07-26 105542](https://github.com/user-attachments/assets/eef8d855-193f-4b82-b13b-823d130cbe27)
 
 ***
+
+**Q-3)List the states with negative penetration (decline) in EV sales from 2022 to 2024?**
+
+Created views pct_sale_2022 and pct_sale_2024
+
+
+![Screenshot 2024-07-26 113156](https://github.com/user-attachments/assets/7218aa66-cbbd-4ee2-93e6-b7597193fea9)
+![Screenshot 2024-07-26 113305](https://github.com/user-attachments/assets/a99c2cb8-7ac4-4a45-b68c-c8ac3402f0fa)
+
+![Screenshot 2024-07-26 121054](https://github.com/user-attachments/assets/29876281-ea9b-4d9b-beb1-4599cec8a32e)
+![Screenshot 2024-07-26 121106](https://github.com/user-attachments/assets/001594d9-38d5-4e21-835a-f97ed32ede3e)
+
+***
+
