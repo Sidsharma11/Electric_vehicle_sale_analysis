@@ -100,7 +100,16 @@ Used view 'electric_vehicle_sale_pct_2024'
 ![Screenshot 2024-07-26 191324](https://github.com/user-attachments/assets/536121aa-f837-4cd4-a2da-8502c0c8706a)
 
 ***
+**Q-8) What are the peak and low season months for EV sales based on the data from 2022 to 2024?**
 
+![Screenshot 2024-07-26 195441](https://github.com/user-attachments/assets/e0cabd92-8e22-4261-90e1-5e0ebdf24c81)
+![Screenshot 2024-07-26 195451](https://github.com/user-attachments/assets/9f313ebc-67c8-4576-9fde-c6a7c0f5703e)
+
+similary , we can find the max,min for the fy year 2023 and 2024
+
+![Screenshot 2024-07-26 195506](https://github.com/user-attachments/assets/573beb74-fe70-4826-b1d2-4da32794ccb7)
+![Screenshot 2024-07-26 195531](https://github.com/user-attachments/assets/d6601da5-bc65-4486-8089-549c898cab28)
+![Screenshot 2024-07-26 195554](https://github.com/user-attachments/assets/e65a5c89-32ce-48ea-83e0-11578d0c4418)
 
 
 
