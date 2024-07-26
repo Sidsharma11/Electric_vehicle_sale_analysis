@@ -42,3 +42,27 @@ Created views pct_sale_2022 and pct_sale_2024
 
 ***
 
+**Q-4)What are the quarterly trends based on sales volume for the top 5 EV makers (4-wheelers) from 2022 to 2024?**
+
+Created temporary table for the sale in  Q1,Q2,Q3 and Q4
+
+![Screenshot 2024-07-26 174032](https://github.com/user-attachments/assets/094d761e-1e5c-4fbb-ac2e-b749dcb6bc3e)
+
+![Screenshot 2024-07-26 174050](https://github.com/user-attachments/assets/b405648a-3165-4274-9991-ec4b385bf302)
+
+![Screenshot 2024-07-26 174059](https://github.com/user-attachments/assets/99999275-c120-4683-a78d-3df29022633e)
+
+![Screenshot 2024-07-26 174109](https://github.com/user-attachments/assets/674ea95f-6541-43c5-915b-a5ac7de759f9)
+
+![Screenshot 2024-07-26 174127](https://github.com/user-attachments/assets/4d909f0d-c7da-4b10-b096-ff8dc5afa424)
+
+![Screenshot 2024-07-26 174147](https://github.com/user-attachments/assets/658073af-cdb6-42c0-9405-dc719acf2dda)
+
+![Screenshot 2024-07-26 174234](https://github.com/user-attachments/assets/a2810e56-ee75-46de-9b1b-1302a2bcb206)
+
+Similary , for the fiscal_year 2023
+
+![Screenshot 2024-07-26 174955](https://github.com/user-attachments/assets/df2d1114-e1ee-43f4-9d1a-6429c174a7fe)
+
+
+
