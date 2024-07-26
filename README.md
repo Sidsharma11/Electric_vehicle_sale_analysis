@@ -64,5 +64,7 @@ Similary , for the fiscal_year 2023
 
 ![Screenshot 2024-07-26 174955](https://github.com/user-attachments/assets/df2d1114-e1ee-43f4-9d1a-6429c174a7fe)
 
+for the fiscal_year 2024
 
+![Screenshot 2024-07-26 175311](https://github.com/user-attachments/assets/641d15f6-f995-4110-9d26-b579cdc3233d)
 
